@@ -11,7 +11,7 @@
 |---|---|
 | 免费试用 / 订阅入口 | https://tryrava.com/go?s=github-apps |
 | 官方网站 | https://tryrava.com |
-| 官方地址发布页（防失联） | https://github.com/leebnbppp2/rava-links |
+| 官方地址发布页（防失联） | https://github.com/RavaVpn/rava-links |
 
 ## 外网怎么上
 
@@ -77,5 +77,5 @@ ChatGPT 和 Claude 在国内需要稳定的网络通道才能打开。要注意�
 ## 相关页面
 
 - [VPN 免费试用：3 天怎么试](https://tryrava.com/vpn-free-trial)
-- [Rava VPN 官方介绍](https://github.com/leebnbppp2/rava-vpn)
+- [Rava VPN 官方介绍](https://github.com/RavaVpn/rava-vpn)
 
