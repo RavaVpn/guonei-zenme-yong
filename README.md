@@ -64,15 +64,15 @@ ChatGPT 和 Claude 在国内需要稳定的网络通道才能打开。要注意�
 中国区 App Store 也能搜到一部分，但 VPN 类 App 需要海外区 Apple ID 下载，步骤见 https://tryrava.com/iphone-vpn 。
 
 **手机上用老掉线怎么办？**
-多半是安卓省电策略杀了后台，或同时开了两个代理。处理方法见 [手机 VPN 推荐：怎么才不老掉](https://leebnbppp2.github.io/shouji-vpn/)。
+多半是安卓省电策略杀了后台，或同时开了两个代理。处理方法见 [手机 VPN 推荐：怎么才不老掉](https://ravavpn.github.io/shouji-vpn/)。
 
 ## 先装好网络工具
 
 这些 App 能不能用，取决于手机或电脑上的网络工具稳不稳。还没装的，可以先看：
 
-- [梯子工具怎么选](https://leebnbppp2.github.io/)
-- [手机 VPN 推荐](https://leebnbppp2.github.io/shouji-vpn/)
-- [电脑 VPN 推荐](https://leebnbppp2.github.io/diannao-vpn/)
+- [梯子工具怎么选](https://ravavpn.github.io/)
+- [手机 VPN 推荐](https://ravavpn.github.io/shouji-vpn/)
+- [电脑 VPN 推荐](https://ravavpn.github.io/diannao-vpn/)
 
 ## 相关页面
 
