@@ -1,7 +1,7 @@
 # Telegram、ChatGPT、WhatsApp 国内怎么用｜外网怎么上（Rava 官方）
 
 > 本仓库由 **Rava 官方**维护，整理在国内使用常见海外 App 的方法，不是第三方评测。
-> 最后更新：**2026-10-03**
+> 最后更新：**2026-10-07**
 
 在国内打不开这些 App，原因都是同一个：需要一条稳定的网络通道。下面按 App 整理常见问题，详细步骤见各自的指南页。
 
@@ -52,7 +52,30 @@ ChatGPT 和 Claude 在国内需要稳定的网络通道才能打开。要注意�
 | 流量 | 不限 |
 | 平台 | iPhone、Android、Windows、Mac |
 
+## 常见问题
+
+**这些 App 要每个都单独设置吗？**
+不用。手机或电脑上连好 VPN 之后，Telegram、ChatGPT、WhatsApp、Google、YouTube 都走同一条通道，打开就能用。
+
+**开着 VPN，微信、支付宝还能用吗？**
+能用。如果觉得国内 App 变慢，可以先断开 VPN 再用国内 App。
+
+**苹果手机在哪下载 Telegram、WhatsApp？**
+中国区 App Store 也能搜到一部分，但 VPN 类 App 需要海外区 Apple ID 下载，步骤见 https://tryrava.com/iphone-vpn 。
+
+**手机上用老掉线怎么办？**
+多半是安卓省电策略杀了后台，或同时开了两个代理。处理方法见 [手机 VPN 推荐：怎么才不老掉](https://leebnbppp2.github.io/shouji-vpn/)。
+
+## 先装好网络工具
+
+这些 App 能不能用，取决于手机或电脑上的网络工具稳不稳。还没装的，可以先看：
+
+- [梯子工具怎么选](https://leebnbppp2.github.io/)
+- [手机 VPN 推荐](https://leebnbppp2.github.io/shouji-vpn/)
+- [电脑 VPN 推荐](https://leebnbppp2.github.io/diannao-vpn/)
+
 ## 相关页面
 
 - [VPN 免费试用：3 天怎么试](https://tryrava.com/vpn-free-trial)
 - [Rava VPN 官方介绍](https://github.com/leebnbppp2/rava-vpn)
+
